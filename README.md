@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my journey as a **Sof
 
 🔗 **Live Demo:** [Add your live link here](#) &nbsp;•&nbsp; 📄 **Resume:** [Download](./resume.pdf)
 
-![Portfolio Preview](./portfolio.png)
+![Portfolio Preview](./professionalportfolio.png)
 
 ---
 
