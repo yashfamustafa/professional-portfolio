@@ -2,7 +2,13 @@
 
 A modern, responsive personal portfolio website showcasing my journey as a **Software Engineering student**, web developer, Java developer, graphic designer, and digital marketer. Built from scratch using HTML5, CSS3, and JavaScript, this site highlights my projects, skills, and experience.
 
-🔗 **Live Demo:** [ https://yashfamustafa.github.io/professional-portfolio/](#) &nbsp;•&nbsp; 📄 **Resume:** [Download](./resume.pdf)
+## 🚀 Live Demo
+
+🌐 **Website:** [Professional Portfolio](https://yashfamustafa.github.io/professional-portfolio/)
+📄 **Resume:** [Download](./resume.pdf)
+Explore my portfolio to learn more about my skills, projects, and experience in Software Engineering, Web Development, Java, PHP, and UI/UX design.
+
+
 
 ![Portfolio Preview](./professionalportfolio.png)
 
