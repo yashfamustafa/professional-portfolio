@@ -28,8 +28,7 @@ The website combines responsive layouts, interactive animations, and dynamic use
 **https://yashfamustafa.github.io/professional-portfolio/**
 
 📄 **Résumé**
-
-Available within the repository (`resume.pdf`).
+[Download Resume](./resume.pdf)
 
 ---
 
